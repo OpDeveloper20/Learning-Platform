@@ -1,0 +1,17 @@
+#d1{
+    background-color: rgb(235, 231, 238);
+    height:200px;
+    width:200px;
+}
+#d2{
+    background-color: rgb(224, 234, 230);
+    height:200px;
+    width:200px;
+}
+#d0{
+    display:inline;
+}
+body{
+    background-image: url("https://media.istockphoto.com/id/1487972668/photo/artificial-neural-network-abstract-technology-background.jpg?s=2048x2048&w=is&k=20&c=t8iD6ul7zCvNRgQqHpSx_p6iWY89Rsl5MF5P9N8EoAg=");
+    background-size:cover;
+}
